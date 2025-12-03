@@ -28,6 +28,7 @@ A implementação do Stokki-Life em microempreendimentos, visa tornar a gestão 
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-white?style=for-the-badge&logo=composer&logoColor=black)
 ![Xampp](https://img.shields.io/badge/xampp-orange?style=for-the-badge&logo=xampp&logoColor=white)
+![VSCode](https://img.shields.io/badge/visual_studio_code-blue?style=for-the-badge&logo=VsCode&logoColor=white)
 #
 
 # Passo a Passo de como instalar Stokki Life:
