@@ -1,5 +1,10 @@
 # Stokki Life: Gestão de Estoque para microempreendedores
 
+<img src="./image/background-stokki.png">
+
+#
+
+
 # Desafio 
 
 **O problema:** De que maneira o software pode auxiliar microempreededoresque trabalham com produtos em pó (como shakes e chás) a gerenciar seu estoque e suas vendas, garantindo mais praticidade, economia e eficiência?
